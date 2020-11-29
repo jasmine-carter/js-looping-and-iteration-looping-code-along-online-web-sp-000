@@ -11,4 +11,4 @@ function writeCards(names) {
   return names;
 }
 
-writeCards(names, );
+writeCards(names, event );
