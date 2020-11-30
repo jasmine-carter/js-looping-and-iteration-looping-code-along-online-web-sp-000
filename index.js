@@ -18,5 +18,5 @@ function countDown(countdown) {
     console.log(countdown);
     countdown -=1
   }
-  console.log (countdown)
+  console.log(countdown)
 }
